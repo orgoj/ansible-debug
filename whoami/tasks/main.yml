@@ -1,0 +1,5 @@
+- command: whoami
+  register: whoami
+  changed_when: false
+
+- debug: msg="whoami={{ whoami.stdout }}"
