@@ -1,5 +1,5 @@
-ansible-debug
-========
+Ansible debug
+=============
 
 Roles for debugging Ansible.
 
