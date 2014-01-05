@@ -1,16 +1,22 @@
-Role Name
+ansible-debug
 ========
 
 Roles for debugging Ansible.
 
-Use::
+Example:
+
     roles:
       - "debug/whoami"
 
 Requirements
 ------------
 
-System commands whoami optionaly sudo.
+System commands `whoami` optionaly `sudo`.
+
+Dependencies
+------------
+
+None
 
 License
 -------
